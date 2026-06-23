@@ -31,6 +31,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/373574/ejs.svg" height="40" alt="ejs logo" />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/375531/api.svg" height="40" alt="REST API logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
