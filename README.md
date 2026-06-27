@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">B.Tech Student at IIIT Surat 🏆<br>Frontend Developer | Competitive Programmer | Problem Solver | Continuous Learner<br>📚 Currently Learning Full Stack Development (MERN)</p>
+<p align="left">B.Tech Student at IIIT Surat 🏆<br>Frontend Developer | Competitive Programmer | Problem Solver | Continuous Learner<br>📚 Currently Learning Full Stack Development (MERN Stack)</p>
 
 ###
 
